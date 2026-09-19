@@ -1,0 +1,17 @@
+{
+  "novoAluno": {
+    "nome": "Aluno Teste",
+    "email": "alunoteste@gmail.com",
+    "matricula": "1234",
+    "senha": "senha1234"
+  },
+  "disciplina": {
+    "nome": "TestesAPI",
+    "codigo": "API1",
+    "cargaHoraria": 32
+  },
+  "trabalho": {
+    "titulo": "trabalhoAPI",
+    "descricao": "trabalho final de testes de API"
+  }
+}
